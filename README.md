@@ -5,7 +5,7 @@
 # 🐍 python_2022_lib
 
 競技プログラミング用のライブラリ (Python)  
-[Library](https://python-2022-lib.netlify.app/)
+[Library](https://python-2022-lib.netlify.app/)aa
 
 ## localhost にサーブする方法
 
