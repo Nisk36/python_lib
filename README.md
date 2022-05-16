@@ -1,2 +1,1 @@
-# python_lib
- 
+# Python勉強会第５回

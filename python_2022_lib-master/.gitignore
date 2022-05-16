@@ -1,0 +1,26 @@
+# Directory
+__pycache__
+
+/.jekyll-cache
+/.vscode
+/bin
+/book
+/dist/*
+!/dist/_includes
+/dist/_includes/notes_graph.json
+!/dist/_layouts
+!/dist/_plugins
+!/dist/_sass
+!/dist/assets
+!/dist/404.html
+!/dist/Gemfile
+!/dist/styles.scss
+
+# File
+*.Identifier
+*.log
+*.pdf
+
+/.editorconfig
+/cptest.sh
+/input.md
