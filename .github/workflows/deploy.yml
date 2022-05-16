@@ -30,6 +30,9 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          url: https://github.com/Nisk36/python_lib.git/
+          method: github
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          caCertificate: ${{ secrets.VAULTCA }}
           # Distribution
           publish_dir: ./dist
