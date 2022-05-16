@@ -12,7 +12,7 @@
 [Setup digital-garden-with-jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) を参考にしました。
 
 必要なツールをインストール (初回のみ実行すればよい)。
-
+aa
 ```sh
 # jekyll は ruby で実装されているので ruby をインストール。
 sudo apt install -y ruby-dev ruby-bundler
